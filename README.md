@@ -1,6 +1,6 @@
 # RCBldGH - Parametric Building Energy Simulation Plugin for Rhino and Grasshopper
 
-**RCBldGH** is a parametric building energy consumption and heating/cooling load simulation plugin developed based on the Rhino and Grasshopper API. It automates the processing of 3D building geometries in Rhino and invokes the grey-box RC building energy simulation tool **[RCBldEng]([andersonspy/RCBIdEng](https://github.com/andersonspy/RCBIdEng))** (written in Python) to output energy consumption and heating/cooling load results for building designs.
+**RCBldGH** is a parametric building energy consumption and heating/cooling load simulation plugin developed based on the Rhino and Grasshopper API. It automates the processing of 3D building geometries in Rhino and invokes the grey-box RC building energy simulation tool **[RCBldEng](https://github.com/andersonspy/RCBIdEng)** (written in C#) to output energy consumption and heating/cooling load results for building designs.
 
 ## 🚀 Features
 
